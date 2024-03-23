@@ -3,5 +3,5 @@
 
 **Simple implementation of a 2D cloth in C++ and SFML, which is pulled down by the force of gravity.**
 ## User Input
-- Right Mouse Click: Drag the cloth 
-- Left Mouse Click: Cut holes
+- Left Mouse Click: Drag the cloth 
+- Right Mouse Click: Cut holes
