@@ -15,7 +15,7 @@ int main(){
     // FPS
     sf::Clock clock;
     sf::Font font;
-    font.loadFromFile("C:/Users/ccend/OneDrive/Documentos/libraries_code/SFML/res/fonts/Arial.ttf");
+    font.loadFromFile("path/to/font.ttf");
     sf::Text frameRateText;
     frameRateText.setFont(font);
     frameRateText.setPosition(-GAME_WIDTH*0.5f+10,-GAME_HEIGHT*0.5f+10);
